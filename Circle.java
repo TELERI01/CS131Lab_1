@@ -1,4 +1,9 @@
-
+/**
+*@author Tyler Lericos
+*@version 1.0
+*Programming Lab 0.1
+*Spring Semester/Freshman
+*/
 public class Circle {
 	double radius;
 	
